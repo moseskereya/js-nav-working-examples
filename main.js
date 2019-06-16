@@ -10,3 +10,12 @@ document.querySelector('.menu').style.left = '-275px';
         menuStatus = 1; 
     }
 }
+function myFunction(){
+    alert('hello you cliced me')
+    var myFunction = prompt('what are you looking for')
+    if(myFunction === ''){
+        alert('please fill the blank')
+    }else{
+        alert('ok perfect! get what you want from us')
+    }
+}

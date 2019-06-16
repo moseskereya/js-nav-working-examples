@@ -2,7 +2,7 @@
     padding: 0;
     margin: 0;
 }
-nav{
+nav {
     height:100vh;
     width:275px;
     background: rgba(234, 234, 236, 0.333);
@@ -14,7 +14,7 @@ nav{
     transition: .9s ease-in-out;
 }
 .togglenav{
-    background-image: url(./photos/j23.jfif);
+    background-image: url(./photos/images.png);
     background-repeat: no-repeat;
     width: 30px;
     height: 30px;
